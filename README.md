@@ -12,7 +12,7 @@
 <h3><img align=center src='https://www.svgrepo.com/show/331724/github-code-source.svg' height=50 /> GitHub Stats</h3>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsdev&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=wnsdev&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=wnsdev&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wnsdev&theme=react&hide_border=false)<br/>
 
 
