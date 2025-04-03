@@ -2,7 +2,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wnsdev) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wsdev) 
 # Hi 👋, I'm Wendel Santos
-> I have a passion for creating user-friendly and high-performance web applications
+> I have a passion for technology and solving problems
 
 <h3><img align=center src='https://www.svgrepo.com/show/224792/css.svg' height=50 /> Tech Stack</h3>
 
