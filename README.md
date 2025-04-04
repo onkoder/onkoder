@@ -5,7 +5,7 @@
 > I am a Senior Software Engineer with more than eight years of experience.
 > I have a passion for technology and solving problems, and I am always seeking new challenges.
 
-<h3><img align=center src='https://www.svgrepo.com/show/429395/binary-circuit-cpu.svg' height=50 /> Tech Stack</h3>
+<h3><img align=center src='https://www.svgrepo.com/show/429395/binary-circuit-cpu.svg' height=50 /> TECHNOLOGIES </h3>
 
 <img align=center src='https://www.svgrepo.com/show/373969/php2.svg' height=50 /> PHP
 <img align=center src='https://www.svgrepo.com/show/373472/blade.svg' height=32 /> Laravel
@@ -13,3 +13,5 @@
 <img align=center src='https://www.svgrepo.com/show/374146/typescript-official.svg' height=32 /> Typescript
 <img align=center src='https://www.svgrepo.com/show/373848/mysql.svg' height=38 /> MySQL
 <img align=center src='https://www.svgrepo.com/show/373553/docker.svg' height=50 /> Docker
+
+<h3><img align=center src='https://www.svgrepo.com/show/429383/creative-idea-ideation.svg' height=50 /> HIGHLIGHT PROJECTS </h3>
