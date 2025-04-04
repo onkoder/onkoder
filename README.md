@@ -7,6 +7,7 @@
 
 <h3><img align=center src='https://www.svgrepo.com/show/429395/binary-circuit-cpu.svg' height=50 /> Tech Stack</h3>
 
+<img align=center src='https://www.svgrepo.com/show/373553/docker.svg' height=50 /> Docker
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-mysql-black?style=flat&logo=mysql&logoColor=white) 
