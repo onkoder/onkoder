@@ -8,7 +8,7 @@
 <h3><img align=center src='https://www.svgrepo.com/show/429395/binary-circuit-cpu.svg' height=50 /> Tech Stack</h3>
 
 <img align=center src='https://www.svgrepo.com/show/373553/docker.svg' height=50 /> Docker
-<img align=center src='https://www.svgrepo.com/show/373970/php3.svg' height=50 /> PHP
+[![PHP](<img align=center src='https://www.svgrepo.com/show/373970/php3.svg' height=50 />)]() 
 <img align=center src='https://www.svgrepo.com/show/373472/blade.svg' height=32 /> Laravel
 <img align=center src='https://www.svgrepo.com/show/373705/js-official.svg' height=32 /> Javascript
 <img align=center src='https://www.svgrepo.com/show/374146/typescript-official.svg' height=32 /> Typescript
