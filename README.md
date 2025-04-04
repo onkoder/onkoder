@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=wnsdev&label=Profile%20views&color=0e75b6&style=flat) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wnsdev) 
-<h1 class="heading-element">&nbsp;</h1>
 <h3><img align=center src='https://www.svgrepo.com/show/429395/binary-circuit-cpu.svg' height=50 /> Tech Skills </h3>
 
 <img align=center src='https://www.svgrepo.com/show/373969/php2.svg' height=50 /> PHP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
