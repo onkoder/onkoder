@@ -16,5 +16,6 @@
 
 <h3><img align=center src='https://www.svgrepo.com/show/429383/creative-idea-ideation.svg' height=50 /> HIGHLIGHT PROJECTS </h3>
 
-## SwipeFile > A Study Platform for Copywriters
+## SwipeFile 
+> Study Platform for Copywriters
 <img align=center src='https://onkoder.com/_next/image?url=https%3A%2F%2Flh3.googleusercontent.com%2Fpw%2FAP1GczORbuMzSHflWcz8GUebao6Kj7Yh2OPYjC9skaPSiQ2vndH6VL1t6uqZ81_yg5gJ3M-r_miXQZAlRVh43MXBdlhlcQabCeEnxONmsLZEXHzAueWkq2g%3Dw4032-h2268-no&w=1920&q=75' height=320 />
