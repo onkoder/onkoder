@@ -10,7 +10,7 @@
 <img align=center src='https://www.svgrepo.com/show/373848/mysql.svg' height=38 /> MySQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align=center src='https://www.svgrepo.com/show/373553/docker.svg' height=50 /> Docker
 
-```                                                                                                                                     ```
+<br style="border-bottom:1px solid red;" />
 <h3><img align=center src='https://www.svgrepo.com/show/429383/creative-idea-ideation.svg' height=50 /> Highlight Projects </h3>
 
 
