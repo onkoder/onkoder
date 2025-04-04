@@ -5,7 +5,7 @@
 > I am a Senior Software Engineer with more than eight years of experience.<br />
 > I have a passion for technology and solving problems, and I am always seeking new challenges.
 
-<h3><img align=center src='https://www.svgrepo.com/show/429395/binary-circuit-cpu.svg' height=50 /> TECHNOLOGIES </h3>
+<h3><img align=center src='https://www.svgrepo.com/show/429395/binary-circuit-cpu.svg' height=50 /> TECH SKILLS </h3>
 
 <img align=center src='https://www.svgrepo.com/show/373969/php2.svg' height=50 /> PHP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align=center src='https://www.svgrepo.com/show/373472/blade.svg' height=32 /> Laravel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
