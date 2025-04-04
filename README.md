@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Wendel
 > I am a Senior Software Engineer with more than eight years of experience.<br />
 > I have a passion for technology and solving problems, and I am always seeking new challenges.
-<hr />
+<h1 class="heading-element">&nbsp;</h1>
 
 <h1 class="heading-element"><img align=center src='https://www.svgrepo.com/show/429395/binary-circuit-cpu.svg' height=50 /> Tech Skills </h1>
 
