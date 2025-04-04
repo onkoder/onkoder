@@ -6,7 +6,7 @@
 > I have a passion for technology and solving problems, and I am always seeking new challenges.
 
 <h3><img align=center src='https://www.svgrepo.com/show/429395/binary-circuit-cpu.svg' height=50 /> TECH SKILLS </h3>
-#
+<hr />
 
 <img align=center src='https://www.svgrepo.com/show/373969/php2.svg' height=50 /> PHP&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align=center src='https://www.svgrepo.com/show/373472/blade.svg' height=32 /> Laravel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,7 +16,7 @@
 <img align=center src='https://www.svgrepo.com/show/373553/docker.svg' height=50 /> Docker
 
 <h3><img align=center src='https://www.svgrepo.com/show/429383/creative-idea-ideation.svg' height=50 /> HIGHLIGHT PROJECTS </h3>
-#
+<hr />
 
 ### SwipeFile 
 > Study Platform for Copywriters
