@@ -8,10 +8,8 @@
 <h3><img align=center src='https://www.svgrepo.com/show/429395/binary-circuit-cpu.svg' height=50 /> Tech Stack</h3>
 
 <img align=center src='https://www.svgrepo.com/show/373553/docker.svg' height=50 /> Docker
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-mysql-black?style=flat&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
+<img align=center src='https://www.svgrepo.com/show/373970/php3.svg' height=50 /> PHP
+<img align=center src='https://www.svgrepo.com/show/373472/blade.svg' height=50 /> Laravel
+<img align=center src='https://www.svgrepo.com/show/373705/js-official.svg' height=50 /> Javascript
+<img align=center src='https://www.svgrepo.com/show/374146/typescript-official.svg' height=50 /> Typescript
+<img align=center src='https://www.svgrepo.com/show/373848/mysql.svg' height=50 /> MySQL
