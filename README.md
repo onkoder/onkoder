@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=wnsdev&label=Profile%20views&color=0e75b6&style=flat) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wnsdev) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wsdev) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wnsdev) 
 # 👋 Hi, I'm Wendel
 > I am a Senior Software Engineer with more than eight years of experience.<br />
 > I have a passion for technology and solving problems, and I am always seeking new challenges.
